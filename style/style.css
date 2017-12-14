@@ -1,0 +1,45 @@
+/*Style*/
+
+h1{ 
+	text-align: center;
+	margin:auto;
+	font-family: 'Mukta', sans-serif;
+	color: white;
+}
+
+		
+table {
+	color:white;
+	padding: 50px;
+	margin: auto;
+	}
+	
+body{
+	background: #0d3448;
+}
+
+/* Vertical */
+
+#tv{
+	position: center fixed;
+	height:300px;
+	width:100px;
+	border-right: solid 1px;
+	border-left: solid 1px;
+}	
+
+
+
+
+/*Horizontal*/
+
+
+
+#th{
+	position: fixed;
+	height:300px;
+	width:100px;
+	transform: rotate(90deg);
+	border-right: solid 1px;
+	border-left: solid 1px;
+}
